@@ -1,10 +1,7 @@
 # Sudoku Grid Manager
 
-This C++ program allows users to load a Sudoku grid from a file, display it in a formatted layout, and validate its correctness according to Sudoku rules.
 
-### Sudoku Grid Manager
-
-This C++ program allows users to load a Sudoku grid from a file, display it in a formatted layout, and validate its correctness according to Sudoku rules.
+### This C++ program allows users to load a Sudoku grid from a file, display it in a formatted layout, and validate its correctness according to Sudoku rules.
 
 #### Features
 1. **Grid Input**  
